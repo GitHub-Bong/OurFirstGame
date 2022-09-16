@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a9de9b151ad0a6d44a1acd65cddd3d0e
+guid: 7d4094299734bce4797d7663bba3d83e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_0
+      name: Chicken_Sprite_Sheet_Right1
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eab0162f6f2a74e499999286c2286ec1
-      internalID: 1375915081
+      spriteID: 81e9eed497b37174daddd892a9c33df6
+      internalID: 1543689594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_1
+      name: Chicken_Sprite_Sheet_Right2
       rect:
         serializedVersion: 2
         x: 32
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e06c28369fed8f046872443c0d5daef9
-      internalID: 2134490641
+      spriteID: 9f6803fffd944314ba834c5aaefbf9b6
+      internalID: 1383688495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_2
+      name: Chicken_Sprite_Sheet_Right3
       rect:
         serializedVersion: 2
         x: 64
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02238e37eecf9a04e899f8e89903a116
-      internalID: -1935995775
+      spriteID: 30f183706f09b0c4f92405d2d7c6bc26
+      internalID: -1371686553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_3
+      name: Chicken_Sprite_Sheet_Right4
       rect:
         serializedVersion: 2
         x: 96
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e05dd70ec2464734787191f4005bf73d
-      internalID: -1043258415
+      spriteID: a839e47e58e4b134ba61e4821f59c2c5
+      internalID: -973332543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_4
+      name: output-onlinepngtools_4
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 053ef54fa6e10d64da6eb01b1131f0ae
-      internalID: -2114153086
+      spriteID: da9af63783563d1408f02733cee5b170
+      internalID: 2139439093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_5
+      name: Chicken_Sprite_Sheet_RightAttack1
       rect:
         serializedVersion: 2
         x: 32
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d12e48cf5b5a95742a2f835d7a82856e
-      internalID: -1498025535
+      spriteID: eef336f300df8e241a4f1f284d65e5db
+      internalID: 1975421415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_6
+      name: output-onlinepngtools_6
       rect:
         serializedVersion: 2
         x: 64
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ff48b9e7ab824147830ef319bde43f7
-      internalID: 1513617138
+      spriteID: 089b5a23c68b65f4c8286aa6fa707af6
+      internalID: -1508385761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_7
+      name: output-onlinepngtools_7
       rect:
         serializedVersion: 2
         x: 96
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cae153fc8eb2b07478b79c1b5cb1486b
-      internalID: 1190722466
+      spriteID: 31391514d30c3b74e96dc511a9d0ea27
+      internalID: 1823531830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_8
+      name: output-onlinepngtools_8
       rect:
         serializedVersion: 2
         x: 0
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d166e185f7d0d8e48af87e4038159796
-      internalID: 2070453933
+      spriteID: 0a04326beadb66f46ae178215a3565ef
+      internalID: 988730869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_9
+      name: output-onlinepngtools_9
       rect:
         serializedVersion: 2
         x: 32
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbe8db0d0ee51794da1ce8d43d64dd64
-      internalID: -1868039679
+      spriteID: 6a230dfd508276e45a63f68f768a2f6d
+      internalID: 1070050469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_10
+      name: output-onlinepngtools_10
       rect:
         serializedVersion: 2
         x: 64
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0492b76b08910645a3d7a2eb41e3e7a
-      internalID: -10587038
+      spriteID: 4315e7c4851eb2747bcebee9ff8ada56
+      internalID: 1527159872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_11
+      name: output-onlinepngtools_11
       rect:
         serializedVersion: 2
         x: 96
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff4bcdf8de56a0540b5c19f8dbdf5daf
-      internalID: -353330813
+      spriteID: d4891b5d059fceb439490fe70ef24d1a
+      internalID: -1090414434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_12
+      name: output-onlinepngtools_12
       rect:
         serializedVersion: 2
         x: 0
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb98bf62ff07c2c41a05705ea1a94d54
-      internalID: -91683484
+      spriteID: e0fe0f80fab20034da1f6d12adb4638f
+      internalID: -2036279662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_13
+      name: output-onlinepngtools_13
       rect:
         serializedVersion: 2
         x: 32
@@ -391,14 +391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa6d19294ef7a7c4eb1ca2e0960214ae
-      internalID: 1060386120
+      spriteID: 3a258a301a09d174bb5a484650a7518c
+      internalID: 1703605780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Hedgehog Sprite Sheet_14
+      name: output-onlinepngtools_14
       rect:
         serializedVersion: 2
         x: 64
@@ -412,8 +412,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f9ff9579ae2f0441a491b1860b91b66
-      internalID: -407655393
+      spriteID: 32c4ae5bcc300a94cb840665290949aa
+      internalID: -2006774907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: output-onlinepngtools_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307898847c79b454b8792432fa4fd84c
+      internalID: 1739694144
       vertices: []
       indices: 
       edges: []
@@ -429,21 +450,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Hedgehog Sprite Sheet_14: -407655393
-      Hedgehog Sprite Sheet_0: 1375915081
-      Hedgehog Sprite Sheet_8: 2070453933
-      Hedgehog Sprite Sheet_6: 1513617138
-      Hedgehog Sprite Sheet_1: 2134490641
-      Hedgehog Sprite Sheet_11: -353330813
-      Hedgehog Sprite Sheet_7: 1190722466
-      Hedgehog Sprite Sheet_9: -1868039679
-      Hedgehog Sprite Sheet_12: -91683484
-      Hedgehog Sprite Sheet_3: -1043258415
-      Hedgehog Sprite Sheet_10: -10587038
-      Hedgehog Sprite Sheet_4: -2114153086
-      Hedgehog Sprite Sheet_2: -1935995775
-      Hedgehog Sprite Sheet_5: -1498025535
-      Hedgehog Sprite Sheet_13: 1060386120
+      output-onlinepngtools_14: -2006774907
+      output-onlinepngtools_6: -1508385761
+      Chicken_Sprite_Sheet_Right2: 1383688495
+      output-onlinepngtools_10: 1527159872
+      output-onlinepngtools_11: -1090414434
+      output-onlinepngtools_9: 1070050469
+      output-onlinepngtools_12: -2036279662
+      output-onlinepngtools_8: 988730869
+      output-onlinepngtools_4: 2139439093
+      Chicken_Sprite_Sheet_RightAttack1: 1975421415
+      output-onlinepngtools_13: 1703605780
+      Chicken_Sprite_Sheet_Right3: -1371686553
+      Chicken_Sprite_Sheet_Right1: 1543689594
+      Chicken_Sprite_Sheet_Right4: -973332543
+      output-onlinepngtools_7: 1823531830
+      output-onlinepngtools_15: 1739694144
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
